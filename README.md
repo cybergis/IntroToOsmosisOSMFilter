@@ -1,4 +1,4 @@
-# Introduction to Osmosos and OSMFilter
+# Introduction to Osmosis and OSMFilter
 
 **Author:** Alex Michels
 
